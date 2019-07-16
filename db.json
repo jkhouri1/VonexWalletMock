@@ -1,0 +1,232 @@
+{
+    "totalClientes": [
+        {
+            "tipo": "geral",
+            "id": 0,
+            "data": 201901,
+            "total": 400
+        },
+        {
+            "tipo": "geral",
+            "id": 0,
+            "data": 201902,
+            "total": 600
+        },
+        {
+            "tipo": "posvenda",
+            "id": 0,
+            "data": 201901,
+            "total": 200
+        },
+        {
+            "tipo": "posvenda",
+            "id": 0,
+            "data": 201902,
+            "total": 300
+        },
+        {
+            "tipo": "comercial",
+            "id": 0,
+            "data": 201901,
+            "total": 200
+        },
+        {
+            "tipo": "comercial",
+            "id": 0,
+            "data": 201902,
+            "total": 300
+        },
+        {
+            "tipo": "equipePosVenda",
+            "id": 1,
+            "data": 201901,
+            "total": 100
+        },
+        {
+            "tipo": "equipePosVenda",
+            "id": 1,
+            "data": 201902,
+            "total": 150
+        },
+        {
+            "tipo": "equipePosVenda",
+            "id": 2,
+            "data": 201901,
+            "total": 100
+        },
+        {
+            "tipo": "equipePosVenda",
+            "id": 2,
+            "data": 201902,
+            "total": 150
+        },
+        {
+            "tipo": "equipeComercial",
+            "id": 1,
+            "data": 201901,
+            "total": 100
+        },
+        {
+            "tipo": "equipeComercial",
+            "id": 1,
+            "data": 201902,
+            "total": 150
+        },
+        {
+            "tipo": "equipeComercial",
+            "id": 2,
+            "data": 201901,
+            "total": 100
+        },
+        {
+            "tipo": "equipeComercial",
+            "id": 2,
+            "data": 201902,
+            "total": 150
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 1,
+            "data": 201901,
+            "total": 10
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 1,
+            "data": 201902,
+            "total": 6
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 2,
+            "data": 201901,
+            "total": 20
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 2,
+            "data": 201902,
+            "total": 24
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 3,
+            "data": 201901,
+            "total": 30
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 3,
+            "data": 201902,
+            "total": 28
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 4,
+            "data": 201901,
+            "total": 22
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 4,
+            "data": 201902,
+            "total": 42
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 5,
+            "data": 201901,
+            "total": 6
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 5,
+            "data": 201902,
+            "total": 5
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 6,
+            "data": 201901,
+            "total": 12
+        },
+        {
+            "tipo": "usuarioPosVenda",
+            "id": 6,
+            "data": 201902,
+            "total": 45
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 1,
+            "data": 201901,
+            "total": 10
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 1,
+            "data": 201902,
+            "total": 6
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 2,
+            "data": 201901,
+            "total": 20
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 2,
+            "data": 201902,
+            "total": 24
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 3,
+            "data": 201901,
+            "total": 30
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 3,
+            "data": 201902,
+            "total": 28
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 4,
+            "data": 201901,
+            "total": 22
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 4,
+            "data": 201902,
+            "total": 42
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 5,
+            "data": 201901,
+            "total": 6
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 5,
+            "data": 201902,
+            "total": 5
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 6,
+            "data": 201901,
+            "total": 12
+        },
+        {
+            "tipo": "usuarioComercial",
+            "id": 6,
+            "data": 201902,
+            "total": 45
+        },
+        ]
+        }       
